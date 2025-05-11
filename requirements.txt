@@ -1,7 +1,0 @@
-streamlit
-pandas
-requests
-scikit-learn
-fuzzywuzzy[speedup]
-python-Levenshtein
-streamlit-autorefresh
